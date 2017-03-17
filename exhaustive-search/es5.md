@@ -2,9 +2,7 @@
 
 #### 난이도 : 하
 
-문제출처 : [https://acmicpc.net/problem/1234](https://acmicpc.net/problem/1234)
-
-### 문제 풀이
+문제출처 : https://www.acmicpc.net/problem/1987
 
 여기에다 풀이를 작성.
 
