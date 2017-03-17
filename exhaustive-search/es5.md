@@ -1,8 +1,10 @@
 # 완전탐색 연습문제 5
 
-#### 난이도 : 하
+#### 난이도 : 중
 
-문제출처 : https://www.acmicpc.net/problem/1987
+문제출처 : [https://www.acmicpc.net/problem/1987](https://www.acmicpc.net/problem/1987)
+
+### 문제풀이
 
 여기에다 풀이를 작성.
 
