@@ -1,5 +1,7 @@
 # 연습문제 1
 
+#### 난이도 : 하
+
 문제출처 : [https://acmicpc.net/problem/1234](https://acmicpc.net/problem/1234)
 
 ### 문제 풀이
