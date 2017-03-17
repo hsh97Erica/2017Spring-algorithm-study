@@ -6,13 +6,11 @@
 
 설명....
 
-
-
 ### C++
 
 #### cin, cout 보다는 scanf, printf 를 쓰자
 
-
+설명...
 
 ### JAVA
 
